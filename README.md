@@ -111,7 +111,7 @@
 <h2>⚖️ License</h2>
 
 <p>
-  The TikTok name, artwork, trademark are all property of Snap Inc. This
+  The TikTok name, artwork, trademark are all property of TikTok Inc. This
   project is provided for educational purposes only. It is not affiliated with
   and has not been approved by TikTok Inc.
 </p>
